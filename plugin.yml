@@ -1,0 +1,5 @@
+name: OPChests
+version: 1.0-SNAPSHOT
+main: me.swipez.opchests.OPChests
+api-version: 1.16
+authors: [ noobplayer77777 ]
